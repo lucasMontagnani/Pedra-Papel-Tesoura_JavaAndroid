@@ -9,9 +9,11 @@ Aplicação em Java para Android do famoso jogo Pedra, Papel e Tesoura (jokenpô
 - [x] Feedback do Resultado
 
 ### 📷 Demonstração da aplicação
-<img alt="test" src="/readme_images/base3.JPG"/>
-<img alt="test" src="/readme_images/base2.JPG"/>
-<img alt="test" src="/readme_images/base1.JPG"/>
+<h1 align="center">
+  <img alt="test" src="/readme_images/base3.JPG" height="675"/>
+  <img alt="test" src="/readme_images/ganhou.JPG" height="675"/>
+  <img alt="test" src="/readme_images/perdeu.JPG" height="675"/>
+</h1>
 
 ### 🚀 Instalação/Pré-requisitos
 <p>Para executar este projeto será necessário apenas a instalação da IDE Android Studio (https://developer.android.com/studio).</p>
